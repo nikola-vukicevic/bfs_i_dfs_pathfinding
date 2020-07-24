@@ -1,0 +1,47 @@
+g:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.exe
+g:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.pdb
+g:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form1.resources
+g:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Properties.Resources.resources
+g:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csproj.GenerateResource.Cache
+g:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.exe
+g:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.pdb
+g:\svastara\visual studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csprojResolveAssemblyReference.cache
+C:\Users\kurs.SYSTEMPRO.001\Desktop\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.exe
+C:\Users\kurs.SYSTEMPRO.001\Desktop\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.pdb
+C:\Users\kurs.SYSTEMPRO.001\Desktop\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.exe
+C:\Users\kurs.SYSTEMPRO.001\Desktop\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.pdb
+C:\Users\kurs.SYSTEMPRO.001\Desktop\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csprojResolveAssemblyReference.cache
+C:\Users\kurs.SYSTEMPRO.001\Desktop\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form1.resources
+C:\Users\kurs.SYSTEMPRO.001\Desktop\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Properties.Resources.resources
+C:\Users\kurs.SYSTEMPRO.001\Desktop\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csproj.GenerateResource.Cache
+g:\svastara\visual studio 2010\Projects\RastojanjeIzmedjuDvaPolja\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form2.resources
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.exe
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.pdb
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csprojResolveAssemblyReference.cache
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form1.resources
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form2.resources
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Properties.Resources.resources
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csproj.GenerateResource.Cache
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.exe
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.pdb
+G:\Svastara\Visual Studio 2010\Projects\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form3.resources
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.exe
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.pdb
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.exe
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.pdb
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form1.resources
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form2.resources
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form3.resources
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Properties.Resources.resources
+D:\Nikola - Instalacije i podesavanja\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csproj.GenerateResource.Cache
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.exe
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\bin\Debug\RastojanjeIzmedjuDvaPolja.pdb
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csprojResolveAssemblyReference.cache
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form1.resources
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form2.resources
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Form3.resources
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.Properties.Resources.resources
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.csproj.GenerateResource.Cache
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.exe
+G:\Sistem\Desktop\RastojanjeIzmedjuDvaPolja (sa klasama)\RastojanjeIzmedjuDvaPolja\obj\x86\Debug\RastojanjeIzmedjuDvaPolja.pdb
